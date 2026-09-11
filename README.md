@@ -1,6 +1,6 @@
-#🌟 NX-Status
+#NX-Status
 
-#✨ Features
+#Features
 
 Glassmorphism UI: Elegant, semi-transparent design with modern blur effects and clean FontAwesome icons.
 
@@ -17,16 +17,18 @@ es_extended (ESX Legacy)
 
 esx_status (For hunger and thirst tracking events)
 
-⚙️ Installation
+#Installation
+
 Download the script and place the nxd_status folder into your resources directory.
 
 Add this entry to your server.cfg:
 
 Code-Snippet
-ensure nxd_status
+ensure nx_status
 Make sure es_extended and esx_status are loaded before this script in your server configuration.
 
-#🎨 Customization
+#Customization
+
 You can flexibly edit the appearance, spacing, and colors in html/style.css. The position (default is bottom right) can be adjusted via #hud-container:
 
 CSS
