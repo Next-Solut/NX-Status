@@ -1,5 +1,7 @@
 #🌟 NX-Status
+
 #✨ Features
+
 Glassmorphism UI: Elegant, semi-transparent design with modern blur effects and clean FontAwesome icons.
 
 Performance Optimized: Extremely low resource usage (0.00ms idle) thanks to optimized loops and events.
