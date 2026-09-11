@@ -2,7 +2,7 @@ ESX = exports["es_extended"]:getSharedObject()
 
 Citizen.CreateThread(function()
     while true do
-        Citizen.Wait(200)
+        Citizen.Wait(600)
         
         local playerPed = PlayerPedId()
         local health = GetEntityHealth(playerPed) - 100
