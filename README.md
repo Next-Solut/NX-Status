@@ -1,6 +1,6 @@
-#NX-Status
+# NX-Status
 
-#Features
+# Features
 
 Glassmorphism UI: Elegant, semi-transparent design with modern blur effects and clean FontAwesome icons.
 
@@ -12,12 +12,12 @@ Smart Visibility: Automatically hides the HUD when unconscious or dead.
 
 Easy Customization: The style can be fully adapted to your server layout via CSS.
 
-#📦 Dependencies
+# 📦Dependencies
 es_extended (ESX Legacy)
 
 esx_status (For hunger and thirst tracking events)
 
-#Installation
+# Installation
 
 Download the script and place the nxd_status folder into your resources directory.
 
@@ -27,7 +27,7 @@ Code-Snippet
 ensure nx_status
 Make sure es_extended and esx_status are loaded before this script in your server configuration.
 
-#Customization
+# Customization
 
 You can flexibly edit the appearance, spacing, and colors in html/style.css. The position (default is bottom right) can be adjusted via #hud-container:
 
@@ -38,7 +38,7 @@ CSS
     right: 30px;
     /* ... */
 }
-#💡 Support & Credits
+# Support & Credits
 Developed by Next-Solutions.
 
 # Discord
