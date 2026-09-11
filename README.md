@@ -4,7 +4,7 @@
 
 Glassmorphism UI: Elegant, semi-transparent design with modern blur effects and clean FontAwesome icons.
 
-Performance Optimized: Extremely low resource usage (0.00ms idle) thanks to optimized loops and events.
+Performance Optimized: Extremely low resource usage (0.01ms - 0.05 idle) thanks to optimized loops and events.
 
 Full ESX Integration: Displays health, armor, hunger, thirst, and stamina in real time.
 
